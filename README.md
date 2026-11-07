@@ -34,7 +34,7 @@ The 30-minute values are fixed.
 
 ## Install
 
-1. Download `SAVER-BY-SKYPIN-v9.6.9-final.zip` from the **Releases** page.
+1. Download `SAVER-BY-SKYPIN-v9.6.9.zip` from the **Releases** page.
 2. Open **KernelSU / KernelSU Next**, go to **Modules**, then **Install from storage**, and choose the zip.
 3. Read the install screen. It lists your device checks (`dumpsys`, `settings`, `svc`, `input`, `getevent`, `cmd`, `am`, `wake_lock`).
 4. **Reboot.** The module starts by itself on every boot. No menu, no settings.
